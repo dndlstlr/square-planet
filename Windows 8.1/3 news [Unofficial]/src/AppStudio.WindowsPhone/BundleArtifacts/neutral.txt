@@ -1,0 +1,2 @@
+MainPackage=C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Release\AppStudio.WindowsPhone_1.1.0.1_Bundle\AppStudio.WindowsPhone_1.1.0.1_AnyCPU.appx
+SymbolPackage=C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\AppPackages\AppStudio.WindowsPhone_1.1.0.1_Test\AppStudio.WindowsPhone_1.1.0.1_AnyCPU.appxsym

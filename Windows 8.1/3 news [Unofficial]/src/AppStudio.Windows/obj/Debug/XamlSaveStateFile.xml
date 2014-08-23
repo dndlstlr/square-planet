@@ -1,0 +1,13 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\dndls_000\desktop\3news\app-3\appstudio.windows\obj\debug\intermediatexaml\appstudio.exe" HashGuid="60ecf6f5-3b2e-a07c-0a95-587363a3db47" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoft.advertising.winrt.ui.winmd" HashGuid="6588494d-37e3-4bf8-bf82-6a4bc10c0818" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoftadvertising.winmd" HashGuid="0dde57b7-8c99-5b9a-0771-4cdcca925c59" />
+    <ReferenceAssembly PathName="c:\users\dndls_000\desktop\3news\app-3\lib\appstudio.common.dll" HashGuid="ea7ff8fd-f781-c973-73f8-2b47fe202ae9" />
+    <ReferenceAssembly PathName="c:\users\dndls_000\desktop\3news\app-3\appstudio.data\bin\debug\appstudio.data.dll" HashGuid="cd9a0604-169e-84a4-3cc6-9ad231515a7a" />
+    <ReferenceAssembly PathName="c:\users\dndls_000\desktop\3news\app-3\packages\htmlagilitypack.1.4.6\lib\winrt45\htmlagilitypack.dll" HashGuid="f2c9a4ce-31d6-6a71-5c53-58cd8e71df15" />
+    <ReferenceAssembly PathName="c:\users\dndls_000\desktop\3news\app-3\packages\newtonsoft.json.6.0.3\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="c79997c3-e7ec-c6d9-80a0-b6fbe9a32ff1" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

@@ -1,0 +1,2 @@
+C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Data\AppStudio.Data.csproj;neutral
+C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\AppStudio.Windows.csproj;neutral

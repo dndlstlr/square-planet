@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AppStudio.App" Collapsed="true">
+    <Position X="30.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAAAAAAAAQAQAAAAAAAAAAQAACAIAIAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ActionCommands" Collapsed="true">
+    <Position X="29" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAIACAAAAAAgAgAUAAAAAQEAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\ActionCommands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.DelegateCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEACAAQAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\DelegateCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AppStudio.NavigationHelper" Collapsed="true">
+    <Position X="37.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAUCAQAAAACAAIRAQAAAQAAAUAAAAAAAABAAk=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.LoadStateEventArgs" Collapsed="true">
+    <Position X="32.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.SaveStateEventArgs" Collapsed="true">
+    <Position X="37.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.RelayCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEACAAQAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\RelayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AppStudio.RelayCommandEx&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEACAAQAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\RelayCommandEx.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AppStudio.SuspensionManager" Collapsed="true">
+    <Position X="25.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAaIAASCBEAAAICAAAAAIAAAAAAAAAAIAAAABA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\SuspensionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.SuspensionManagerException" Collapsed="true">
+    <Position X="27.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\SuspensionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Commands.ItemClickCommand" Collapsed="true">
+    <Position X="27.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoAAAAAAAAAAAAAAIAAAQAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\ItemClickCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.ViewModelBase" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACEAAAAAgAAABAgIAgAAAAAAAAAAEAAAAAACUBEEAE=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.ViewModelBase&lt;T&gt;" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQgAAAAAgACChUkwEggAAgAARAAAAAAABQIAAUEwAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.AboutThisAppViewModel" Collapsed="true">
+    <Position X="27.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIEAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\AboutThisAppViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.BreakingNewsVideosViewModel" Collapsed="true">
+    <Position X="23" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACABAAAAAAAAAAACAAAAAACAAAAQBAAAE=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\BreakingNewsVideosViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.BusinessViewModel" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACABAAIAAAAAAAACAAAAAACAAAAQBAAAE=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\BusinessViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.EntertainmentViewModel" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACABAAAAAAAAAAACAAAAAACAAAAQBAAAE=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\EntertainmentViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.LatestHeadlinesViewModel" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACABAAIAAAAAAAACAAAAAACAAAAQBAAAE=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\LatestHeadlinesViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.MainViewModel" Collapsed="true">
+    <Position X="36" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DgAAAAKEAAAKAAIAgAIAACgAgUQAAAAAAJgEEEAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\MainViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.MoreHeadlinesViewModel" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAACAAAAAAAAAAAAACAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\MoreHeadlinesViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.NZNewsViewModel" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACABAAIAAAAAAAACAAAAAACAAAAQBAAAE=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\NZNewsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.Political1ViewModel" Collapsed="true">
+    <Position X="18.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACABAAAAAAAAAAACAAAAAACAAAAQBAAAE=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\Political1ViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.PoliticalViewModel" Collapsed="true">
+    <Position X="20.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACABAAIAAAAAAAACAAAAAACAAAAQBAAAE=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\PoliticalViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.PrivacyViewModel" Collapsed="true">
+    <Position X="30.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACABAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\PrivacyViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.ScienceAndTechnologyViewModel" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACABAAAAAAAAAAACAAAAAACAAAAQBAAAE=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\ScienceAndTechnologyViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.SportViewModel" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACABAAIAAAAAAAACAAAAAACAAAAQBAAAE=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\SportViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.ViewModels.WorldViewModel" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACABAAIAAAAAAAACAAAAAACAAAAQBAAAE=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\ViewModels\WorldViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Controls.Html2Xaml.CustomGrid" Collapsed="true">
+    <Position X="29" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Controls\Html2Xaml\CustomGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Controls.Html2Xaml.Html2XamlConverter" Collapsed="true">
+    <Position X="37.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAYAAACAAAAAAAQAIkAABAAAAAEAICAABAAAQAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Controls\Html2Xaml\Html2XamlConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Controls.Html2Xaml.Properties" Collapsed="true">
+    <Position X="32.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEQAAAAAAAAAAgAAAAAAAoAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Controls\Html2Xaml\RichTextBlockProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Controls.Html2Xaml.TagDefinition" Collapsed="true">
+    <Position X="29" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAACAAAACAAQAAAAAAAAAAAAQgAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Controls\Html2Xaml\TagDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Controls.VariableSizedGrid" Collapsed="true">
+    <Position X="34.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAIAAAEAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Controls\VariableSizedGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Controls.WebControl" Collapsed="true">
+    <Position X="37.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAgARAAAAQAAgAAAAABAAJAQAACAAAQAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Controls\WebControl.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Controls.BoolToVisibilityConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Converters\BoolToVisibilityConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AppStudio.Controls.TextPlainConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Converters\TextPlainConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AppStudio.Controls.ThumbnailConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Converters\ThumbnailConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AppStudio.Controls.VisibilityConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Converters\VisibilityConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AppStudio.Services.NokiaMapsServices" Collapsed="true">
+    <Position X="27.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Services\MapsServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Services.NavigationServices" Collapsed="true">
+    <Position X="25.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Services\NavigationServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Services.NokiaMusicServices" Collapsed="true">
+    <Position X="29" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Services\NokiaMusicServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Services.ShareServices" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAAAAAAAAAAgAAAgAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Services\ShareServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AppStudio.Services.SpeechServices" Collapsed="true">
+    <Position X="32.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAIAAAAAAABAAAAAAAAAAAACAAAIAAQAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Services\SpeechServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.AboutFlyout" Collapsed="true">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\AppFlyouts\AboutFlyout.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.PrivacyFlyout" Collapsed="true">
+    <Position X="29" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Views\AppFlyouts\PrivacyFlyout.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.BreakingNewsVideosDetail" Collapsed="true">
+    <Position X="34.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAABAAAAACAAAAQAAAAAAAQACAAAAAEAAAA=</HashCode>
+      <FileName>Views\BreakingNewsVideosDetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.BreakingNewsVideosList" Collapsed="true">
+    <Position X="36" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABAAAAAAAAAAQAAAAAAAQACAAAAAEAAAA=</HashCode>
+      <FileName>Views\BreakingNewsVideosList.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.BreakingNewsVideosPage" Collapsed="true">
+    <Position X="37.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABAAAAAAAAAAQAAAAAAAQACAAAAAEAAAA=</HashCode>
+      <FileName>Views\BreakingNewsVideosPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.BusinessDetail" Collapsed="true">
+    <Position X="25.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAABAAAAACAAAAQAAAAAAAQAAAgAAAEAAAA=</HashCode>
+      <FileName>Views\BusinessDetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.BusinessList" Collapsed="true">
+    <Position X="27.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABAAAAAAAAAAQAAAAAAAQAAAgAAAEAAAA=</HashCode>
+      <FileName>Views\BusinessList.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.EntertainmentDetail" Collapsed="true">
+    <Position X="32.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAABBAAAACAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\EntertainmentDetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.EntertainmentList" Collapsed="true">
+    <Position X="34.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABBAAAAAAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\EntertainmentList.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.EntertainmentPage" Collapsed="true">
+    <Position X="36" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABBAAAAAAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\EntertainmentPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.ImageViewer" Collapsed="true">
+    <Position X="25.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAEAAAAAAAAAAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\ImageViewer.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.LatestHeadlinesDetail" Collapsed="true">
+    <Position X="29" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAABAAAAACAAAAQAAEAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\LatestHeadlinesDetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.LatestHeadlinesList" Collapsed="true">
+    <Position X="30.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABAAAAAAAAAAQAAEAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\LatestHeadlinesList.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.MainPage" Collapsed="true">
+    <Position X="34.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABQEAAAAAAACQEAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.NZNewsDetail" Collapsed="true">
+    <Position X="30.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAABAAAAACAAAAwAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\NZNewsDetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.NZNewsList" Collapsed="true">
+    <Position X="32.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABAAAAAAAAAAwAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\NZNewsList.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.Political1Detail" Collapsed="true">
+    <Position X="34.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAABAAAAACAAAAQAAAAAAAQgAAAAAAEAAAA=</HashCode>
+      <FileName>Views\Political1DetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.Political1List" Collapsed="true">
+    <Position X="36" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABAAAAAAAAAAQAAAAAAAQgAAAAAAEAAAA=</HashCode>
+      <FileName>Views\Political1List.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.Political1Page" Collapsed="true">
+    <Position X="37.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABAAAAAAAAAAQAAAAAAAQgAAAAAAEAAAA=</HashCode>
+      <FileName>Views\Political1Page.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.PoliticalDetail" Collapsed="true">
+    <Position X="25.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAAJAAAAACAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\PoliticalDetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.PoliticalList" Collapsed="true">
+    <Position X="27.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAJAAAAAAAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\PoliticalList.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.ScienceAndTechnologyDetail" Collapsed="true">
+    <Position X="25.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAABAAAAACAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\ScienceAndTechnologyDetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.ScienceAndTechnologyList" Collapsed="true">
+    <Position X="27.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABAAAAAAAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\ScienceAndTechnologyList.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.ScienceAndTechnologyPage" Collapsed="true">
+    <Position X="29" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABAAAAAAAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\ScienceAndTechnologyPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.SportDetail" Collapsed="true">
+    <Position X="34.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAEAAAABAAAAACAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\SportDetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.SportList" Collapsed="true">
+    <Position X="36" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAABAAAAAAAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\SportList.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.SportPage" Collapsed="true">
+    <Position X="37.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAABAAAAAAAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\SportPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.WorldDetail" Collapsed="true">
+    <Position X="25.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAACAAAABAAAAACAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\WorldDetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppStudio.Views.WorldList" Collapsed="true">
+    <Position X="27.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAACAAAABAAAAAAAAAAQAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\WorldList.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AppStudio.ViewModels.ViewTypes" Collapsed="true">
+    <Position X="25.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAI=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="AppStudio.LoadStateEventHandler" Collapsed="true">
+    <Position X="25.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="AppStudio.SaveStateEventHandler" Collapsed="true">
+    <Position X="27.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

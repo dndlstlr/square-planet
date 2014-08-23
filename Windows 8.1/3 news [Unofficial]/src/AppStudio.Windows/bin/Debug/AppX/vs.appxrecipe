@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DANIELS-LAPTOP</Machine>
+    <WindowsUser>dndls_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>22772dndlstlr.3Newsunofficial</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>959CEF144FDD9143104EF8E9BCB4219C0A2FBC8DBC024A1A1B92AD72C2F5E2CB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>22772dndlstlr.3Newsunofficial_1.1.0.0_neutral__kgy4jxb1mbbcp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>22772dndlstlr.3Newsunofficial_kgy4jxb1mbbcp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>22772dndlstlr.3Newsunofficial</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=64292218-5542-4E43-BF55-EC60AF8128A9</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-20T20:12:22.526</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\AppStudio.exe">
+      <PackagePath>AppStudio.exe</PackagePath>
+      <Modified>2014-08-22T23:37:03.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-12T23:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-12T23:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\Lib\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Data\bin\Debug\AppStudio.Data.dll">
+      <PackagePath>AppStudio.Data.dll</PackagePath>
+      <Modified>2014-08-19T22:43:22.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+      <Modified>2014-08-19T15:16:31.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\packages\Newtonsoft.Json.6.0.3\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-08-19T15:16:30.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-12T23:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-12T23:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-12T23:43:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-12T23:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\AppBar\GoToSource.png">
+      <PackagePath>Assets\AppBar\GoToSource.png</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\AppBar\PinToStart.png">
+      <PackagePath>Assets\AppBar\PinToStart.png</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\AppBar\Refresh.png">
+      <PackagePath>Assets\AppBar\Refresh.png</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\AppBar\TextToSpeech.png">
+      <PackagePath>Assets\AppBar\TextToSpeech.png</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+      <Modified>2014-08-19T02:53:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-19T02:53:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-19T02:53:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-19T02:53:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Assets\NoImage.png">
+      <PackagePath>Assets\NoImage.png</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Assets\VideoError.png">
+      <PackagePath>Assets\VideoError.png</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Assets\DataImages\7310310882_4e78f25688_o.png">
+      <PackagePath>Assets\DataImages\7310310882_4e78f25688_o.png</PackagePath>
+      <Modified>2014-08-19T02:53:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Assets\DataImages\menuitem-icon.png">
+      <PackagePath>Assets\DataImages\menuitem-icon.png</PackagePath>
+      <Modified>2014-08-19T02:53:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Views\DataTemplates\LatestHeadlinesViews.xaml">
+      <PackagePath>Views\DataTemplates\LatestHeadlinesViews.xaml</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Views\DataTemplates\NZNewsViews.xaml">
+      <PackagePath>Views\DataTemplates\NZNewsViews.xaml</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Views\DataTemplates\WorldViews.xaml">
+      <PackagePath>Views\DataTemplates\WorldViews.xaml</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Views\DataTemplates\PoliticalViews.xaml">
+      <PackagePath>Views\DataTemplates\PoliticalViews.xaml</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Views\DataTemplates\BusinessViews.xaml">
+      <PackagePath>Views\DataTemplates\BusinessViews.xaml</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Views\DataTemplates\MoreHeadlinesViews.xaml">
+      <PackagePath>Views\DataTemplates\MoreHeadlinesViews.xaml</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Views\DataTemplates\SportViews.xaml">
+      <PackagePath>Views\DataTemplates\SportViews.xaml</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Views\DataTemplates\EntertainmentViews.xaml">
+      <PackagePath>Views\DataTemplates\EntertainmentViews.xaml</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Views\DataTemplates\Political1Views.xaml">
+      <PackagePath>Views\DataTemplates\Political1Views.xaml</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Views\DataTemplates\ScienceAndTechnologyViews.xaml">
+      <PackagePath>Views\DataTemplates\ScienceAndTechnologyViews.xaml</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Views\DataTemplates\BreakingNewsVideosViews.xaml">
+      <PackagePath>Views\DataTemplates\BreakingNewsVideosViews.xaml</PackagePath>
+      <Modified>2014-08-19T02:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\Assets\ApplicationBackgroundImage.jpg">
+      <PackagePath>Assets\ApplicationBackgroundImage.jpg</PackagePath>
+      <Modified>2014-08-19T02:53:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Controls\WebControl.xbf">
+      <PackagePath>Controls\WebControl.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\AppFlyouts\AboutFlyout.xbf">
+      <PackagePath>Views\AppFlyouts\AboutFlyout.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\AppFlyouts\PrivacyFlyout.xbf">
+      <PackagePath>Views\AppFlyouts\PrivacyFlyout.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\ImageViewer.xbf">
+      <PackagePath>Views\ImageViewer.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\SportPage.xbf">
+      <PackagePath>Views\SportPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\EntertainmentPage.xbf">
+      <PackagePath>Views\EntertainmentPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\Political1Page.xbf">
+      <PackagePath>Views\Political1Page.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\ScienceAndTechnologyPage.xbf">
+      <PackagePath>Views\ScienceAndTechnologyPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\BreakingNewsVideosPage.xbf">
+      <PackagePath>Views\BreakingNewsVideosPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\LatestHeadlinesList.xbf">
+      <PackagePath>Views\LatestHeadlinesList.xbf</PackagePath>
+      <Modified>2014-08-20T20:12:11.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\LatestHeadlinesDetailPage.xbf">
+      <PackagePath>Views\LatestHeadlinesDetailPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\NZNewsList.xbf">
+      <PackagePath>Views\NZNewsList.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\NZNewsDetailPage.xbf">
+      <PackagePath>Views\NZNewsDetailPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\WorldList.xbf">
+      <PackagePath>Views\WorldList.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\WorldDetailPage.xbf">
+      <PackagePath>Views\WorldDetailPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\PoliticalList.xbf">
+      <PackagePath>Views\PoliticalList.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\PoliticalDetailPage.xbf">
+      <PackagePath>Views\PoliticalDetailPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\BusinessList.xbf">
+      <PackagePath>Views\BusinessList.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\BusinessDetailPage.xbf">
+      <PackagePath>Views\BusinessDetailPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.235</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\SportList.xbf">
+      <PackagePath>Views\SportList.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.235</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\EntertainmentList.xbf">
+      <PackagePath>Views\EntertainmentList.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\Political1List.xbf">
+      <PackagePath>Views\Political1List.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\ScienceAndTechnologyList.xbf">
+      <PackagePath>Views\ScienceAndTechnologyList.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\BreakingNewsVideosList.xbf">
+      <PackagePath>Views\BreakingNewsVideosList.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\SportDetailPage.xbf">
+      <PackagePath>Views\SportDetailPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\EntertainmentDetailPage.xbf">
+      <PackagePath>Views\EntertainmentDetailPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\Political1DetailPage.xbf">
+      <PackagePath>Views\Political1DetailPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\ScienceAndTechnologyDetailPage.xbf">
+      <PackagePath>Views\ScienceAndTechnologyDetailPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Views\BreakingNewsVideosDetailPage.xbf">
+      <PackagePath>Views\BreakingNewsVideosDetailPage.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Styles\ControlStyles.xbf">
+      <PackagePath>Styles\ControlStyles.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\Styles\AppStyles.xbf">
+      <PackagePath>Styles\AppStyles.xbf</PackagePath>
+      <Modified>2014-08-19T22:43:39.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\AppStudio.xr.xml">
+      <PackagePath>AppStudio.xr.xml</PackagePath>
+      <Modified>2014-08-19T22:43:38.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-20T20:12:13.692</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

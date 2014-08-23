@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DANIELS-LAPTOP</Machine>
+    <WindowsUser>dndls_000</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>054812a2-9886-469d-ad22-310f6ac3343e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\AppStudio.exe">
+      <PackagePath>AppStudio.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Common.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Common.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Display.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Display.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\Lib\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Data\bin\Debug\AppStudio.Data.dll">
+      <PackagePath>AppStudio.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\packages\Newtonsoft.Json.6.0.3\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\Ormma.js">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\Ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\AppBar\GoToSource.png">
+      <PackagePath>Assets\AppBar\GoToSource.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\AppBar\PinToStart.png">
+      <PackagePath>Assets\AppBar\PinToStart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\AppBar\Refresh.png">
+      <PackagePath>Assets\AppBar\Refresh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\AppBar\TextToSpeech.png">
+      <PackagePath>Assets\AppBar\TextToSpeech.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\Square71x71Logo.png">
+      <PackagePath>Assets\Square71x71Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Styles\WideLogo.png">
+      <PackagePath>Styles\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Assets\NoImage.png">
+      <PackagePath>Assets\NoImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Assets\VideoError.png">
+      <PackagePath>Assets\VideoError.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Assets\DataImages\7310310882_4e78f25688_o.png">
+      <PackagePath>Assets\DataImages\7310310882_4e78f25688_o.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.Shared\Assets\DataImages\menuitem-icon.png">
+      <PackagePath>Assets\DataImages\menuitem-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Views\DataTemplates\LatestHeadlinesViews.xaml">
+      <PackagePath>Views\DataTemplates\LatestHeadlinesViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Views\DataTemplates\NZNewsViews.xaml">
+      <PackagePath>Views\DataTemplates\NZNewsViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Views\DataTemplates\WorldViews.xaml">
+      <PackagePath>Views\DataTemplates\WorldViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Views\DataTemplates\PoliticalViews.xaml">
+      <PackagePath>Views\DataTemplates\PoliticalViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Views\DataTemplates\BusinessViews.xaml">
+      <PackagePath>Views\DataTemplates\BusinessViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Views\DataTemplates\MoreHeadlinesViews.xaml">
+      <PackagePath>Views\DataTemplates\MoreHeadlinesViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Views\DataTemplates\SportViews.xaml">
+      <PackagePath>Views\DataTemplates\SportViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Views\DataTemplates\EntertainmentViews.xaml">
+      <PackagePath>Views\DataTemplates\EntertainmentViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Views\DataTemplates\Political1Views.xaml">
+      <PackagePath>Views\DataTemplates\Political1Views.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Views\DataTemplates\ScienceAndTechnologyViews.xaml">
+      <PackagePath>Views\DataTemplates\ScienceAndTechnologyViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Views\DataTemplates\BreakingNewsVideosViews.xaml">
+      <PackagePath>Views\DataTemplates\BreakingNewsVideosViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\SplashScreen.scale-240.jpg">
+      <PackagePath>Assets\SplashScreen.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\Assets\ApplicationBackgroundImage.jpg">
+      <PackagePath>Assets\ApplicationBackgroundImage.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Controls\WebControl.xbf">
+      <PackagePath>Controls\WebControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\AboutThisAppPage.xbf">
+      <PackagePath>Views\AboutThisAppPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\ImageViewer.xbf">
+      <PackagePath>Views\ImageViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\SportPage.xbf">
+      <PackagePath>Views\SportPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\EntertainmentPage.xbf">
+      <PackagePath>Views\EntertainmentPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\Political1Page.xbf">
+      <PackagePath>Views\Political1Page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\ScienceAndTechnologyPage.xbf">
+      <PackagePath>Views\ScienceAndTechnologyPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\BreakingNewsVideosPage.xbf">
+      <PackagePath>Views\BreakingNewsVideosPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\LatestHeadlinesDetailPage.xbf">
+      <PackagePath>Views\LatestHeadlinesDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\NZNewsDetailPage.xbf">
+      <PackagePath>Views\NZNewsDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\WorldDetailPage.xbf">
+      <PackagePath>Views\WorldDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\PoliticalDetailPage.xbf">
+      <PackagePath>Views\PoliticalDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\BusinessDetailPage.xbf">
+      <PackagePath>Views\BusinessDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\SportDetailPage.xbf">
+      <PackagePath>Views\SportDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\EntertainmentDetailPage.xbf">
+      <PackagePath>Views\EntertainmentDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\Political1DetailPage.xbf">
+      <PackagePath>Views\Political1DetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\ScienceAndTechnologyDetailPage.xbf">
+      <PackagePath>Views\ScienceAndTechnologyDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Views\BreakingNewsVideosDetailPage.xbf">
+      <PackagePath>Views\BreakingNewsVideosDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Styles\ControlStyles.xbf">
+      <PackagePath>Styles\ControlStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\Styles\AppStyles.xbf">
+      <PackagePath>Styles\AppStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\AppStudio.xr.xml">
+      <PackagePath>AppStudio.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

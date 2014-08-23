@@ -1,0 +1,40 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:controls="using:AppStudio.Controls"
+    xmlns:html2xaml="using:AppStudio.Controls.Html2Xaml"
+    xmlns:commands="using:AppStudio.Commands">
+
+    <!-- MenuNoPhoto -->
+    <DataTemplate x:Key="MoreHeadlinesList">
+      <Grid>
+        <ListView Width="600" ItemsSource="{Binding Items}" SelectionMode="None" IsSwipeEnabled="False" IsItemClickEnabled="True" commands:ItemClickCommand.Command="{Binding ItemClickCommand}"
+                  ScrollViewer.VerticalScrollBarVisibility="Hidden" ItemTemplate="{StaticResource MoreHeadlinesItem}">
+        </ListView>
+      </Grid>
+    </DataTemplate>
+
+    <DataTemplate x:Key="MoreHeadlinesListSnapped">
+      <Grid>
+        <ListView Width="230" ItemsSource="{Binding Items}" SelectionMode="None" IsSwipeEnabled="False" IsItemClickEnabled="True" commands:ItemClickCommand.Command="{Binding ItemClickCommand}"
+                  ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                  ItemTemplate="{StaticResource MoreHeadlinesItemSnapped}">
+        </ListView>
+      </Grid>
+    </DataTemplate>
+
+    <!-- MenuNoPhoto Item -->
+    <DataTemplate x:Key="MoreHeadlinesItem">
+        <Grid Width="600" Height="50">
+            <TextBlock Margin="0, 10, 10, 0" Height="20" Text="{Binding Title}" Style="{StaticResource MenuItemText}" />
+        </Grid>
+    </DataTemplate>
+
+    <DataTemplate x:Key="MoreHeadlinesItemSnapped">
+        <Grid Width="600" Height="50">
+            <TextBlock Margin="0, 10, 10, 0" Height="20" Text="{Binding Title}" Style="{StaticResource MenuItemTextSnapped}" />
+        </Grid>
+    </DataTemplate>
+
+
+</ResourceDictionary>

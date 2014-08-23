@@ -1,0 +1,4 @@
+**23 August 2014**
+This is a windows 8.1 app which runs on both desktop and mobile devices.
+It is currently in it's VERY early stages and working on it as part of the MSA programme.
+However, no more progress will be made on this application until I finish several assignments and tests.

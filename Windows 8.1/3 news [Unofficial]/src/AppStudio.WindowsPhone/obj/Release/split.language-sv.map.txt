@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-sv"
+"ResourceDimensions"		"language-sv-se"
+
+[Files]
+"C:\Users\dndls_000\Desktop\3news\App-3\AppStudio.WindowsPhone\obj\Release\split.language-sv.pri"			"resources.pri"
